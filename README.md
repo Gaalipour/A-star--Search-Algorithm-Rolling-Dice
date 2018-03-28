@@ -1,4 +1,4 @@
-# A-star--Search-Algorithm-Rolling-Dice
+# A-star--Search-Algorithm
 
 ## Description
 We implement A* search in Python to solve rolling-die mazes. 
