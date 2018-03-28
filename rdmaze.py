@@ -1,7 +1,8 @@
 """
 File name: rdmaze.py
 Language: Python3
-
+Authors:
+    Ghodratollah Aalipour and Akash Venkatachalam
 Description:
 The objective is to implement  A* search using different heuristics and solve the rolling-die mazes. We consider each
 position on maze as a (x,y)  point on the rectangular coordinate system. The dice is six-sided with all opposite die faces
